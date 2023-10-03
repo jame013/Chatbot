@@ -1,2 +1,1 @@
-streamlit
-hugchat==0.0.8
+streamlit>=1.26.0
