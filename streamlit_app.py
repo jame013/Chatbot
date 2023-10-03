@@ -1,5 +1,3 @@
 import streamlit as st
-
-st.title('🎈 App Name')
-
-st.write('Hello world!')
+from hugchat import hugchat
+from hugchat.login import Login
